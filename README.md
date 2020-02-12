@@ -26,7 +26,7 @@ You can check the 'previews' folder in the repo to check out how some stuff look
 
 **UserCSS Installation**
 
-📦 [Install the UserCSS](https://github.com/UnstoppableMango/PVEDiscordDark/raw/master/dicordDark.user.css)
+📦 [Install the UserCSS](https://github.com/UnstoppableMango/PVEDiscordDark/raw/master/discordDark.user.css)
 
 ## Uninstall
 *Depending on how you installed it..*
