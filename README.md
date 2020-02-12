@@ -25,7 +25,7 @@ You can check the 'previews' folder in the repo to check out how some stuff look
 3. Save style and enable it - and youre done.
 
 **UserCSS Installation**
-Click <https://raw.githubusercontent.com/UnstoppableMango/PVEDiscordDar/master/dicordDark.user.css>
+📦 [Install the UserCSS](https://raw.githubusercontent.com/UnstoppableMango/PVEDiscordDark/master/dicordDark.user.css)
 
 ## Uninstall
 *Depending on how you installed it..*
