@@ -10,7 +10,11 @@
 The theme now runs its own JavaScript code which patches the colors for certain components (and charts). This approach is much better, and safer than what was used previously.
 
 ## Installation 
-The installation is very simple thanks to the utility. Run the following commands on the PVE node serving the Web UI and follow the on-screen instructions!     
+The installation is very simple thanks to the utility. Run the following commands on the PVE node serving the Web UI and follow the on-screen instructions!
+     
+**UserCSS Installation**
+
+📦 [Install the UserCSS](https://github.com/UnstoppableMango/PVEDiscordDark/raw/master/discordDark.user.css)
 
 ```
 ~# wget https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.py
